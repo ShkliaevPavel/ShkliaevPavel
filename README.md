@@ -21,8 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title = "python" width = "80" height = "80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title = "matplotlib" width = "80" height = "80"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" title = "plotly" width = "80" height = "80"/>&nbsp;
-<img src="[https://drive.google.com/file/d/1hEHh_kR0ds5HM2dDjy_s1NcOFAPyDPUs/view?usp=sharing](https://drive.google.com/file/d/1CN38nM-vbJHLCLN5tJm2HlhGYNrQdpBr/view?usp=sharing)" title = "powerbi" width = "80" height = "80"/>&nbsp;
-<img src="[https://drive.google.com/file/d/1hEHh_kR0ds5HM2dDjy_s1NcOFAPyDPUs/view?usp=sharing](https://drive.google.com/file/d/1hEHh_kR0ds5HM2dDjy_s1NcOFAPyDPUs/view?usp=sharing)" title = "powerbi" width = "80" height = "80"/>&nbsp;          
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title = "powerbi" width = "80" height = "80"/>&nbsp;          
           
           
           
