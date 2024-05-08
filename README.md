@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id = "header" align = "center">
+  <h1> Hi there, I'm Pavel 👋</h1>
+  <h3> A budding data analyst setting on the path to decoding the enigma of numbers. </h3>
+</div>
+
+<a href = "linkedin-url">
+  <img src ="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a/>
 
 <!--
 **ShkliaevPavel/ShkliaevPavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
