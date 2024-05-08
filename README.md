@@ -3,9 +3,29 @@
   <h3> A budding data analyst setting on the path to decoding the enigma of numbers. </h3>
 </div>
 
-<a href = "linkedin-url">
-  <img src ="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div id = "socials" align = "center">
+  <a href = "linkedin-url" >
+    <img src ="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <a/>
+  <a href = "telegram-url" >
+    <img src ="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</div>
+
+### About me:
+- Ex-Senior clinical research associate transitioning into a Data Analyst role
+- Know about my experience :point_right: [CV](https://drive.google.com/file/d/1bnV9ZUD9XfLZ2wN-nXmX2XXme5Mb6j-I/view?usp=sharing)
+- I speak english & russian, studying serbian and swedish
+
+### Languages and tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title = "postgres" width = "80" height = "80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title = "python" width = "80" height = "80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title = "matplotlib" width = "80" height = "80"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" title = "plotly" width = "80" height = "80"/>&nbsp;
+<img src="[https://drive.google.com/file/d/1hEHh_kR0ds5HM2dDjy_s1NcOFAPyDPUs/view?usp=sharing](https://drive.google.com/file/d/1CN38nM-vbJHLCLN5tJm2HlhGYNrQdpBr/view?usp=sharing)" title = "powerbi" width = "80" height = "80"/>&nbsp;
+<img src="[https://drive.google.com/file/d/1hEHh_kR0ds5HM2dDjy_s1NcOFAPyDPUs/view?usp=sharing](https://drive.google.com/file/d/1hEHh_kR0ds5HM2dDjy_s1NcOFAPyDPUs/view?usp=sharing)" title = "powerbi" width = "80" height = "80"/>&nbsp;          
+          
+          
+          
 
 <!--
 **ShkliaevPavel/ShkliaevPavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
