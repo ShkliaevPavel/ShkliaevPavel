@@ -4,10 +4,10 @@
 </div>
 
 <div id = "socials" align = "center">
-  <a href = "linkedin-url" >
+  <a href = "https://www.linkedin.com/in/pavel-shkliaev-79a960256/?locale=en_US" >
     <img src ="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <a/>
-  <a href = "telegram-url" >
+  <a href = "https://t.me/Onemoretaboo" >
     <img src ="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </div>
 
