@@ -13,7 +13,7 @@
 
 ### About me:
 - Ex-Senior clinical research associate transitioning into a Data Analyst role
-- Know about my experience :point_right: [CV](https://drive.google.com/file/d/1bnV9ZUD9XfLZ2wN-nXmX2XXme5Mb6j-I/view?usp=sharing)
+- Know about my experience :point_right: [CV](https://drive.google.com/file/d/1RLfbUUonj1FJdDVdSz0IiTejYpP6s7z2/view?usp=drive_link)
 - I speak english & russian, studying serbian and swedish
 
 ### Languages and tools:
