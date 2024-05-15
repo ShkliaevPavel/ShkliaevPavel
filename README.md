@@ -12,7 +12,7 @@
 </div>
 
 ### About me:
-- Ex-Senior clinical research associate transitioning into a Data Analyst role
+- ex-Senior clinical research associate transitioning into a Data Analyst role
 - Know about my experience :point_right: [CV](https://drive.google.com/file/d/1RLfbUUonj1FJdDVdSz0IiTejYpP6s7z2/view?usp=drive_link)
 - My [portfolio](https://github.com/ShkliaevPavel/Portfolio/tree/main)
 - I speak english & russian, studying serbian and swedish
